@@ -8,7 +8,6 @@ import axios from 'axios'
 
 global.owner = [
   ['919934009592', 'FBI', true],
-  ['15155188627', 'He Man', true], 
   [''] 
 ] //Number of owners
 
@@ -50,7 +49,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'ᴛʜᴇ ꜰʙɪ-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'FBI┃ᴮᴼᵀ' 
-global.author = '@Lord' 
+global.author = '@FBi' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/itz_suryaaa_\n' 
 global.dygp = 'https://chat.whatsapp.com/HUQm2XwA4IdAdrPzoi7h6v'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
